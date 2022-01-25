@@ -1,1 +1,1 @@
-# awzhak.net
+[awzhak.net](https://awzhak.net)
