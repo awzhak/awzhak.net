@@ -1,0 +1,41 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+awzhak/node_modules
+awzhak/.pnp
+awzhak/.pnp.js
+
+# testing
+awzhak/coverage
+
+# next.js
+awzhak/.next/
+awzhak/out/
+
+# production
+awzhak//build
+
+# misc
+awzhak/.DS_Store
+awzhak/*.pem
+
+# debug
+awzhak/npm-debug.log*
+awzhak/yarn-debug.log*
+awzhak/yarn-error.log*
+
+# local env files
+awzhak/.env.local
+awzhak/.env.development.local
+awzhak/.env.test.local
+awzhak/.env.production.local
+
+# vercel
+awzhak/.vercel
+
+# typescript
+awzhak/*.tsbuildinfo
+
+# other
+memo.md
