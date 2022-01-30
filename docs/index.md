@@ -9,4 +9,4 @@ title: awzhak
 - GitHub
     - [169z87mn](https://github.com/169z87mn)
 - Annict
-    - [awzhak](https://annict.com/@awzhak)
+    - [awzhak](https://annict.com/@awzhak/watching)
