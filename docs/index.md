@@ -4,13 +4,8 @@ title: awzhak
 ---
 
 ## Links
-- Twitter
-    - [awzhak](https://twitter.com/awzhak)
-- GitHub
-    - [169z87mn](https://github.com/169z87mn)
-- Annict
-    - [awzhak](https://annict.com/@awzhak/watching)
-- EVENTERNOTE
-    - [awzhak](https://www.eventernote.com/users/awzhak)
-- Instagram
-    - [169z87mn](https://www.instagram.com/169z87mn)
+- [Twitter](https://twitter.com/awzhak)
+- [GitHub](https://github.com/169z87mn)
+- [Annict](https://annict.com/@awzhak/watching)
+- [EVENTERNOTE](https://www.eventernote.com/users/awzhak)
+- [Instagram](https://www.instagram.com/awzhak)
