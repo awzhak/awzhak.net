@@ -1,6 +1,7 @@
 ---
-layout: default
-title: awzhak
+layout: page
+title: About
+permalink: /about/
 ---
 
 ## Links
