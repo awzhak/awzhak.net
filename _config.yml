@@ -2,6 +2,10 @@ title: awzhak.net
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+header_pages:
+  - about.md
+  - portfolio.md
+
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
