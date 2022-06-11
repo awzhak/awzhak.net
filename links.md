@@ -1,9 +1,9 @@
 ---
-layout: default
-title: awzhak
+layout: page
+title: Links
+permalink: /links/
 ---
 
-## Links
 - [Twitter](https://twitter.com/awzhak)
 - [GitHub](https://github.com/169z87mn)
 - [Annict](https://annict.com/@awzhak/watching)
