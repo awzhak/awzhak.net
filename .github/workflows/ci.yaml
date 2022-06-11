@@ -2,10 +2,10 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - feature/minima_theme
+      - master
   pull_request:
     branches:
-      - feature/minima_theme
+      - master
 jobs:
   build:
     name: "Test with Jekyll ${{ matrix.jekyll }}"
