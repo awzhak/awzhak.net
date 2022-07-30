@@ -24,6 +24,8 @@ awzhak/*.pem
 awzhak/npm-debug.log*
 awzhak/yarn-debug.log*
 awzhak/yarn-error.log*
+.jekyll-cache/*
+_site/*
 
 # local env files
 awzhak/.env.local
