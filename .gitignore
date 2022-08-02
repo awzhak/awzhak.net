@@ -26,6 +26,7 @@ awzhak/yarn-debug.log*
 awzhak/yarn-error.log*
 .jekyll-cache/*
 _site/*
+Gemfile.lock
 
 # local env files
 awzhak/.env.local
