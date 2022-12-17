@@ -21,7 +21,6 @@ categories: Network
 ![](https://user-images.githubusercontent.com/33781977/208204660-97d3e191-64f3-44c2-8d02-54e9f40613a5.png)
 
 ## 設定
-* 構成図の通り `eth` や DHCP を割り当てますので随所読み替えてください
 * ここでは タイムゾーン, NTP, ファイアウォールなどの設定は省きます
 
 ### 1. ER-4に接続する
@@ -277,7 +276,6 @@ commit; save
 ### 6. 確認
 ここまでの設定で `eth1` に接続された端末で IPv6 が使えるようになっているはずなので、[ipv6-test.com](ipv6-test.com) などで確認。
 
-IPv6 アドレスが各端末に RA されてくるまでは少し時間がかかるので、すぐには v6 が有効にならないことがあります。10分ほど待っても降ってこない場合は設定を見直してください……。
 
 ## 参考
 * [EdgeRouter設定メモ: IPv6/IPoE + DS-Liteでインターネット高速化](https://stop-the-world.hatenablog.com/entry/2018/11/05/135911)
