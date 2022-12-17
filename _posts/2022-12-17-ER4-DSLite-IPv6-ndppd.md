@@ -13,7 +13,7 @@ categories: Network
     - [ndppd を MIPS64 向けにビルドする](#ndppd-を-mips64-向けにビルドする)
     - [ndppd の設定](#ndppd-の設定)
   - [6. IPv6 RA の設定](#6-ipv6-ra-の設定)
-  - [6. 確認](#6-確認)
+  - [7. 確認](#7-確認)
 - [参考](#参考)
 
 
@@ -273,7 +273,7 @@ set interfaces ethernet eth1 ipv6 router-advert send-advert true
 commit; save
 ```
 
-### 6. 確認
+### 7. 確認
 ここまでの設定で `eth1` に接続された端末で IPv6 が使えるようになっているはずなので、[ipv6-test.com](https://ipv6-test.com) などで確認。
 
 
