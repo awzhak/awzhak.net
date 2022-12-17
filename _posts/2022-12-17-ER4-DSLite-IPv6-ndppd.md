@@ -274,7 +274,7 @@ commit; save
 ```
 
 ### 6. 確認
-ここまでの設定で `eth1` に接続された端末で IPv6 が使えるようになっているはずなので、[ipv6-test.com](ipv6-test.com) などで確認。
+ここまでの設定で `eth1` に接続された端末で IPv6 が使えるようになっているはずなので、[ipv6-test.com](https://ipv6-test.com) などで確認。
 
 
 ## 参考
